@@ -24,7 +24,6 @@ describe('index.js', function () {
 
   describe('fuzzyMatch()', function () {
     const drivers = [];
-
     beforeEach(function () {
       drivers.length = 0;
 
